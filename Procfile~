@@ -1,0 +1,1 @@
+web: gunicorn Coursework:app --log-file -
